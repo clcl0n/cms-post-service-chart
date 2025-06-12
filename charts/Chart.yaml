@@ -1,0 +1,8 @@
+apiVersion: v2
+description: Cms PostService
+name: cms-post-service-chart
+version: ${CHART_VERSION}
+keywords:
+  - cms
+  - post
+  - service
